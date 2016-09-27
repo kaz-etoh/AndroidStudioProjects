@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UT3</string>
+    <string name="long_app_name">Ultimate Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="restart_label">Restart</string>
+    <string name="main_menu_label">Main Menu</string>
+    <string name="declare_winner">%1$s is the winner</string>
+    <string name="continue_label">Continue</string>
+    <string name="new_game_label">New Game</string>
+    <string name="about_label">About</string>
+    <string name="ok_label">OK</string>
+    <string name="about_title">About Ultimate Tic Tac Toe</string>
+    <string name="about_text">\
+        このアプリは、"初めてのAndroid第四版"(オライリー・ジャパン出版)の本を元に作成した、究極の三目並べというゲームアプリです。通常の三目並べの盤が９つ配置され、先行のプレイヤーが任意の小さな盤のマスに打ったマルorバツの位置によって、次のプレイヤーが打つことのできる盤の位置が決まります。
+まず、小さな盤でタテ・ヨコ・ナナメいずれにおいても、マルorバツが３つ揃ったほうを勝ちとし、勝利した盤がさらにタテ・ヨコ・ナナメいずれにおいて揃った場合、最終的に勝者となります。
+    </string>
+</resources>
